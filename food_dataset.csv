@@ -1,0 +1,51 @@
+mood,time_of_day,is_hungry,prefers_spicy,diet,food_prediction
+happy,breakfast,1,0,veg,Idli
+tired,dinner,1,1,non-veg,Spicy Chicken Curry
+sad,lunch,1,1,veg,Paneer Butter Masala
+energetic,breakfast,0,0,vegan,Fruit Smoothie
+bored,evening,1,1,veg,Samosa
+angry,lunch,1,1,non-veg,Chicken Biryani
+neutral,dinner,0,0,vegan,Vegetable Soup
+happy,lunch,1,0,veg,Veg Pulao
+tired,breakfast,1,0,vegan,Oatmeal
+sad,dinner,1,0,non-veg,Grilled Fish
+bored,lunch,1,1,veg,Pav Bhaji
+excited,dinner,1,1,veg,Chole Bhature
+happy,evening,0,0,vegan,Sprout Salad
+stressed,lunch,1,0,veg,Rajma Chawal
+neutral,breakfast,1,1,non-veg,Egg Sandwich
+energetic,lunch,0,0,vegan,Quinoa Salad
+sad,evening,1,1,veg,Aloo Tikki
+tired,lunch,1,1,non-veg,Butter Chicken
+happy,dinner,0,0,vegan,Lentil Soup
+angry,evening,1,1,veg,Chilli Paneer
+excited,breakfast,1,0,non-veg,Chicken Sausage Roll
+bored,dinner,1,1,veg,Masala Dosa
+sad,lunch,0,0,vegan,Tofu Stir Fry
+tired,dinner,1,1,non-veg,Mutton Rogan Josh
+neutral,lunch,0,1,veg,Veg Fried Rice
+happy,breakfast,1,0,vegan,Chia Pudding
+energetic,dinner,1,1,non-veg,Grilled Chicken Wrap
+bored,breakfast,0,0,veg,Poha
+stressed,dinner,1,0,vegan,Pumpkin Soup
+excited,evening,1,1,non-veg,Chicken Lollipop
+sad,breakfast,0,0,veg,Upma
+tired,lunch,0,1,vegan,Chickpea Salad
+happy,lunch,1,1,non-veg,Fish Fry
+bored,dinner,0,0,vegan,Minestrone Soup
+angry,lunch,1,0,veg,Bhindi Masala
+neutral,evening,1,0,non-veg,Egg Roll
+stressed,breakfast,1,1,vegan,Spicy Tofu Scramble
+sad,lunch,1,1,veg,Kadhi Chawal
+excited,lunch,1,1,non-veg,Chicken Burger
+tired,breakfast,0,0,veg,Vegetable Sandwich
+energetic,evening,1,0,vegan,Hummus Wrap
+bored,lunch,1,1,non-veg,Chicken 65
+happy,dinner,1,0,veg,Dal Tadka
+neutral,breakfast,0,0,vegan,Green Smoothie
+angry,evening,1,1,non-veg,Spicy Kebab
+stressed,lunch,0,0,veg,Cabbage Sabzi
+excited,dinner,0,1,vegan,Spicy Veg Curry
+tired,evening,1,0,non-veg,Chicken Soup
+bored,breakfast,1,1,veg,Besan Chilla
+happy,evening,1,0,non-veg,Fish Cutlet
